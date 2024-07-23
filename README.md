@@ -5,8 +5,8 @@ I'm JeongJun Song, a developer who codes dreams.
 ### About Me
 I am working with the mission of changing the world to be better than yesterday!
 
-- 👨‍💻 All of my projects are available at [My Projects](https://charmed-summer-94a.notion.site/20ca1bad28ea4011b5a224feb859cfc5)
-- 💬 Ask me about React, Vue.js, and Solidity
+- 👨‍💻 All of my projects are available at [My Projects](https://songjeongjun320.github.io/jun-song.github.io/project/)
+- 💬 Ask me about Full-stack, AWS S3 & Textract, Computer vision and Machine Learning!
 - 📫 How to reach me: songjeongjun320@gmail.com
 
 ### Languages and Tools
@@ -23,11 +23,6 @@ I am working with the mission of changing the world to be better than yesterday!
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Statistics
-![GitHub Followers](https://img.shields.io/github/followers/songjeongjun320?style=social)
-![GitHub Subscribers](https://img.shields.io/youtube/channel/subscribers/UCzZZzZZZZZZZZZ?style=social)
-![GitHub Views](https://img.shields.io/youtube/channel/views/UCzZZzZZZZZZZZZ?style=social)
 
 ### Summary
 I'm a Computer Science student at Arizona State University with over 2 years of experience in full-stack development and object-oriented programming. I am passionate about utilizing machine learning and OCR technologies to solve real-world problems, and I am seeking internship opportunities to further develop my skills and contribute to innovative projects.
