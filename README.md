@@ -36,7 +36,7 @@ Arizona State University, Tempe, AZ
 - **NAMU (New American University Scholar) Scholarship:** For top international students | ASU | 2023-2025 | Tempe
 - **FURI (Fulton Undergraduate Research Initiative) Award:** For students who are eligible to participate in the research program | ASU | 2024 | Tempe
 
-- ![JeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjeongjun320&show_icons=true&theme=radical)
+<!-- - ![JeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjeongjun320&show_icons=true&theme=radical) -->
 
 ### Technical Skills
 - **Programming Languages:** Java, JavaScript, Python, C/C++
