@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm JeongJun Song, a developer who codes dreams.
+I'm **JeongJun Song**, a developer who codes dreams.
 
 ### About Me
 I am working with the mission of changing the world to be better than yesterday!
@@ -16,11 +16,11 @@ I am working with the mission of changing the world to be better than yesterday!
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
@@ -36,14 +36,8 @@ Arizona State University, Tempe, AZ
 - **NAMU (New American University Scholar) Scholarship:** For top international students | ASU | 2023-2025 | Tempe
 - **FURI (Fulton Undergraduate Research Initiative) Award:** For students who are eligible to participate in the research program | ASU | 2024 | Tempe
 
-<!-- - ![JeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjeongjun320&show_icons=true&theme=radical) -->
-
-### Technical Skills
-- **Programming Languages:** Java, JavaScript, Python, C/C++
-- **Front-End:** HTML, CSS, React.JS
-- **Tools, Databases, and OS:** Node.JS, PostgreSQL, Git, GitHub, Windows, Linux/Unix, Docker
-
 ### Professional Experience
+
 **Arizona State University, Tempe, AZ**  
 **FURI Research Aide** | 05/2024 - Present  
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
@@ -68,7 +62,17 @@ Led the KPI Automatic Project, developing an executable program to automate data
 - Automated data crawling tasks that typically took 20 minutes to complete manually, allowing for instant results with a click of a button and reducing task completion time by 80%.
 - Converted the application into an executable (EXE) file and distributed it to all employees, resulting in increased work efficiency and streamlined operations.
 
-### Military
-**Hanbit Unit 12th of United Nations (UN), Bor, South Sudan**  
-**Driver, Interpreter** | 01/2020 - 01/2021  
-Responsible for transporting operational personnel and providing interpretation services.
+### Projects
+
+- **[ASU FURI Project](https://github.com/songjeongjun320/ASU_FURI_Project)**: Vision AI Insights, real-time object detection improvements.
+- **[Ethical Hackathon](https://github.com/songjeongjun320/ethical_hackathon)**: Developed a Chrome extension with Hugging Face API integration, awarded 2nd Prize.
+- **[OCR CNTR Number Recognition](https://github.com/songjeongjun320/OCR_CNTR_Number/blob/main/Test.ipynb)**: Used OpenCV and Tesseract for automating container number recognition.
+- **[KPI Automatic Extraction](https://github.com/songjeongjun320/KPI_Automatic/tree/main)**: Automating KPI data extraction.
+
+### Technical Skills
+- **Programming Languages:** Java, JavaScript, Python, C/C++
+- **Front-End:** HTML, CSS, React.JS, Tailwind CSS, Next.JS, TypeScript
+- **Tools, Databases, and OS:** Node.JS, PostgreSQL, Supabase, Git, GitHub, Windows, Linux/Unix, Docker
+
+### GitHub Stats
+![JeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjeongjun320&show_icons=true&theme=radical)
