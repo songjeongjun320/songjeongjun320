@@ -30,9 +30,12 @@ I'm **(Jun) JeongJun Song**, a developer who codes dreams.
 Arizona State University, Tempe, AZ  
 **📅 Expected Graduation:** December 2025
 
-### Scholarships
+### Achievements
 - 🎖️ **NAMU (New American University Scholar) Scholarship:** For top international students | ASU | 2023-2025 | Tempe
 - 🎖️ **FURI (Fulton Undergraduate Research Initiative) Award:** For students who are eligible to participate in the research program | ASU | 2024 | Tempe
+- 🎖️ **Participant of Amazon's Campus Summer Series** | 2024 |
+- 🎖️ **Ethical Hackathon 2nd Winner**
+  
 
 ### Professional Experience
 
