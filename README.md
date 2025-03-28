@@ -28,7 +28,7 @@ I'm **(Jun) JeongJun Song**, a developer who codes dreams.
 ### Education
 **🎓 BS. Computer Science**  
 Arizona State University, Tempe, AZ  
-**📅 Expected Graduation:** December 2025
+**📅 Expected Graduation:** May 2026
 
 ### Achievements
 - 🎖️ **NAMU (New American University Scholar) Scholarship:** For top international students | ASU | 2023-2025 | Tempe
@@ -38,9 +38,16 @@ Arizona State University, Tempe, AZ
   
 
 ### Professional Experience
+**Arizona State University, Tempe, AZ**  
+**Undergraduate Research Assistant** | 12/2024 - Present  
+Participating in the ARC Research Lab under Assistant Professor Ben Zhou, focusing on advancing the capabilities of Large Language Models (LLMs) in human language learning and inference.
+- 🔍 Conducting pioneering research on the ability of LLMs to independently learn and infer human language by leveraging contextual and auditory information, exploring novel approaches to natural language processing.
+- 🛠️ Investigating the integration of multimodal data (text and audio) into LLMs, evaluating their performance in understanding and generating language under diverse contextual scenarios.
+- 💡 Developing experimental frameworks to test LLMs’ language acquisition capabilities, contributing to insights on their adaptability and potential for real-world applications.
+- 🌐 Collaborating with lab members to design and implement research methodologies, documenting findings to support future publications and advancements in AI-driven language understanding.
 
 **Arizona State University, Tempe, AZ**  
-**FURI Research Aide** | 05/2024 - Present  
+**FURI Research Aide** | 05/2024 - 01/2025  
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges with a Team of Three Members.
 
 - 🔍 Conducted an in-depth analysis of YOLOv10, highlighting its innovative NMS-Free Training, which eliminates the Non-Maximum Suppression step, thereby reducing inference time and improving real-time performance.
