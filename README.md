@@ -5,7 +5,7 @@ I'm **(Jun) JeongJun Song**, a developer who codes dreams.
 ### About Me
 🌍 I am working with the mission of changing the world to be better than yesterday!
 
-- 👨‍💻 All of my projects are available at [My Projects](https://songjeongjun320.github.io/project/)
+- 👨‍💻 All of my projects are available at [My Projects](https://junswebsite.vercel.app/)
 - 💬 Ask me about Full-stack, AWS S3 & Textract, Computer vision, and Machine Learning!
 - 📫 How to reach me: [songjeongjun320@gmail.com](mailto:songjeongjun320@gmail.com)
 
