@@ -51,6 +51,7 @@ Served in the United Nations peacekeeping mission, facilitating communication an
 
 **Arizona State University, Tempe, AZ**
 **Research Assistant | ARC Lab** | 12/2024 - Current
+
 Conducting research under Prof. Ben Zhou, enhancing multilingual capabilities of language models.
 - 🔍 Pioneering research on LLMs' ability to independently learn and infer human language using contextual and auditory information
 - 🛠️ Training and deploying models in HPC environment using up to four NVIDIA A100 GPUs
@@ -59,6 +60,7 @@ Conducting research under Prof. Ben Zhou, enhancing multilingual capabilities of
 
 **Arizona State University, Tempe, AZ**
 **Research Aide – Software Engineering Role** | 05/2024 - 12/2024
+
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges.
 - 🔍 Built Full-Stack website leveraging Next.js, Flask, JavaScript, Supabase, AWS Textract API and YOLOv8
 - ⏱️ Reduced truck gate processing time from 5 minutes to 5-10 seconds with OCR-based system
@@ -67,6 +69,7 @@ Leading the Vision AI Insights Project: Applying Machine Learning and OCR Librar
 
 **NGL Transportation INC, Phoenix, AZ**
 **Software Engineering Intern** | 01/2022 - 01/2023
+
 Led OCR and automation projects to optimize operational efficiency.
 
 OCR Container Detection Project:
