@@ -1,125 +1,149 @@
 ## Hi there 👋
 
-I'm **(Jun) JeongJun Song**, a developer who codes dreams.
+I'm **(Jun) JeongJun Song**, Full Stack AI Developer & AI Researcher (Large Language Models' Multilingual Ability)
 
 ### About Me
 🌍 I am working with the mission of changing the world to be better than yesterday!
 
-- 👨‍💻 All of my projects are available at [My Projects](https://junswebsite.vercel.app/)
-- 💬 Ask me about Full-stack, AWS S3 & Textract, Computer vision, and Machine Learning!
+- 👨‍💻 All of my projects are available at [My Portfolio](https://junswebsite.vercel.app/)
+- 💬 Ask me about Full-stack, AI Agents, n8n Workflows, LLMs, Computer Vision, and Machine Learning!
 - 📫 How to reach me: [songjeongjun320@gmail.com](mailto:songjeongjun320@gmail.com)
-- 📱 Phone: (623) 889-4796
 - 🔗 LinkedIn: [junsong0602](https://www.linkedin.com/in/junsong0602/)
+- 💪 Work Ethic: 100 hrs/week - Still hungry, Relentless Passion 🔥
 
 ### Languages and Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EF7C28?style=for-the-badge&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machinelearning&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=yolo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Summary
-🎓 I'm a Computer Science student at Arizona State University with over 3 years of experience in full-stack development, machine learning, and AI research. I am passionate about utilizing cutting-edge technologies to solve real-world problems, with expertise in LLMs, computer vision, and cloud computing. I am seeking opportunities to further develop my skills and contribute to innovative projects.
+🎓 Computer Science graduate from Arizona State University with 2+ years of experience in AI/ML, full-stack development, and AI agent platform building. Passionate about leveraging cutting-edge technologies like n8n, LLMs, and computer vision to solve real-world problems. Currently building Rebil, a peer-to-peer car rental startup in Indonesia.
 
 ### Education
-**🎓 BS. Computer Science**  
-Arizona State University, Ira A. Fulton Schools of Engineering, Tempe, AZ  
-**📅 Expected Graduation:** December 2025  
-**📊 GPA:** 3.74/4.0  
-**🏆 Dean's List (2023-2025)**  
+**🎓 BS. Computer Science**
+Arizona State University, Ira A. Fulton Schools of Engineering, Tempe, AZ
+**📊 GPA:** 3.77/4.0
+**🏆 Dean's List (2023-2025)**
 **🎖️ NAMU (New American University Scholar) Scholarship (2023-2025)**
 
+### Military Service
+**🎖️ UN(United Nations) Peacekeepers, South Sudan**
+**Role:** Driver & Interpreter
+Served in the United Nations peacekeeping mission, facilitating communication and logistics operations in a challenging international environment.
+
 ### Achievements
-- 🎖️ **NAMU (New American University Scholar) Scholarship:** For top international students | ASU | 2023-2025 | Tempe
-- 🎖️ **FURI (Fulton Undergraduate Research Initiative) Award:** For students who are eligible to participate in the research program | ASU | 2024 | Tempe
-- 🎖️ **Participant of Amazon's Campus Summer Series** | 2024 |
-- 🎖️ **Ethical Hackathon 2nd Winner** | 2024 |
+- 🏆 **HackAgent 2025 Winner** - CarePilot AI Voice-Enabled Doctor Assistant
+- 🥈 **Ethical Hackathon 2nd Place** - "Why don't you be more nice(r)?" | 2024
+- 🎖️ **NAMU (New American University Scholar) Scholarship** - For top international students | ASU | 2023-2025
+- 🎖️ **FURI (Fulton Undergraduate Research Initiative) Award** - Research program eligibility | ASU | 2024
+- 🎖️ **Amazon's Campus Summer Series Participant** | 2024
 
 ### Professional Experience
 
-**Arizona State University, Tempe, AZ**  
-**Research Assistant | ARC Lab** | 12/2024 - 07/2025  
+**Arizona State University, Tempe, AZ**
+**Research Assistant | ARC Lab** | 12/2024 - Current
 Conducting research under Prof. Ben Zhou, enhancing multilingual capabilities of language models.
-- 🔍 Conducting pioneering research on the ability of LLMs to independently learn and infer human language by leveraging contextual and auditory information, exploring novel approaches to natural language processing.
-- 🛠️ Training and deploying models in an HPC (High Performance Computing) environment using up to four NVIDIA A100 GPUs.
-- 💡 Investigating the integration of multimodal data (text and audio) into LLMs, evaluating their performance in understanding and generating language under diverse contextual scenarios.
-- 🌐 Collaborating with lab members to design and implement research methodologies, documenting findings to support future publications and advancements in AI-driven language understanding.
+- 🔍 Pioneering research on LLMs' ability to independently learn and infer human language using contextual and auditory information
+- 🛠️ Training and deploying models in HPC environment using up to four NVIDIA A100 GPUs
+- 💡 Investigating multimodal data (text and audio) integration into LLMs for diverse contextual scenarios
+- 🌐 Collaborating on research methodologies to support future publications in AI-driven language understanding
 
-**Arizona State University, Tempe, AZ**  
-**Research Aide – Software Engineering Role** | 05/2024 - 12/2024  
+**Arizona State University, Tempe, AZ**
+**Research Aide – Software Engineering Role** | 05/2024 - 12/2024
 Leading the Vision AI Insights Project: Applying Machine Learning and OCR Libraries to Solve Real-World Challenges.
-- 🔍 Built a Full-Stack website leveraging Next.js, Flask, JavaScript, Supabase, AWS Textract API and YOLOv8.
-- ⏱️ Reduced truck gate processing time from 5 minutes to 5-10 seconds by implementing an OCR-based system.
-- 💡 Implemented a cost-effective OCR solution by integrating PyTesseract for image quality assessment and Amazon Textract for high-quality image processing, optimizing resource utilization and minimizing unnecessary transaction costs.
-- 🌐 Designed and developed a web application using HTML, CSS, JavaScript, and JavaFx to display OCR-extracted information on the frontend, integrating backend processing and deploying the server with Docker for streamlined deployment and scalability.
+- 🔍 Built Full-Stack website leveraging Next.js, Flask, JavaScript, Supabase, AWS Textract API and YOLOv8
+- ⏱️ Reduced truck gate processing time from 5 minutes to 5-10 seconds with OCR-based system
+- 💡 Implemented cost-effective OCR solution combining PyTesseract and Amazon Textract
+- 🌐 Deployed scalable web application with Docker integration
 
-**NGL Transportation INC, Phoenix, AZ**  
-**Software Engineering Intern** | 01/2022 - 01/2023  
-Led an OCR Project to detect container numbers, significantly reducing truck transit times at the gate.
+**NGL Transportation INC, Phoenix, AZ**
+**Software Engineering Intern** | 01/2022 - 01/2023
+Led OCR and automation projects to optimize operational efficiency.
 
-- 📈 Enhanced image detection accuracy by 20% by developing and refining a YOLOv5 AI model for improved feature recognition in container images.
-- ⏱️ Reduced image processing time by 30% using OpenCV for efficient image parsing and pre-processing workflows.
-- 🔗 Streamlined real-time data integration by automating JSON data transmission via POST API to an AWS server, decreasing data entry errors by 15%.
-- 🔒 Managed over 10,000 daily data transactions on AWS S3, MySQL, optimizing database schemas and storage practices for enhanced data security and accessibility.
+OCR Container Detection Project:
+- 📈 Enhanced image detection accuracy by 20% using refined YOLOv5 AI model
+- ⏱️ Reduced image processing time by 30% with OpenCV optimization
+- 🔗 Automated JSON data transmission via POST API, decreasing data entry errors by 15%
+- 🔒 Managed 10,000+ daily data transactions on AWS S3 and MySQL
 
-Led the KPI Automatic Project, developing an executable program to automate data crawling tasks, significantly boosting operational efficiency.
+KPI Automation Project:
+- ⚙️ Utilized Selenium for automated web data extraction
+- 🚀 Reduced task completion time by 80% (from 20 minutes to instant results)
+- 💼 Distributed executable application to all employees, streamlining operations
 
-- ⚙️ Utilized Selenium to extract necessary information from web pages, achieving the desired result.
-- 🚀 Automated data crawling tasks that typically took 20 minutes to complete manually, allowing for instant results with a click of a button and reducing task completion time by 80%.
-- 💼 Converted the application into an executable (EXE) file and distributed it to all employees, resulting in increased work efficiency and streamlined operations.
+### Featured Projects
 
-### Projects
+**🚀 [Rebil - Startup](https://rebil.vercel.app/)** | Next.js | Supabase | OAuth | Google Maps | Stripe | June 2025 - present
+- Startup MVP for peer-to-peer car rental platform in Indonesia
+- Built with Next.js, 15+ relational database tables, and integrated payment system
+- Implementing Google Maps API, Stripe payments, and OAuth authentication
 
-**🚀 [Rebil - Startup](https://github.com/songjeongjun320/Rebil)** | Next.js | Supabase | Git | Full-Stack | OAuth | GCP | July 2025 - present
-- Startup MVP(Minimum Variable Product) model development project targeting the vehicle rental market in Indonesia.
-- Designing database schema with 15+ interconnected tables, platform through Next.js framework.
-- Integrating Google Maps API, Stripe, and OAuth (Supabase/Google) for core platform features.
+**🏆 [CarePilot - AI Voice Doctor Assistant](https://github.com/songjeongjun320/CarePilot)** | Next.js 15 | TypeScript | n8n | Web Speech API | May 2025
+- **HackAgent 2025 Winner** - AI-powered voice assistant transforming healthcare workflows
+- Features instant patient summaries, voice-to-structured notes, real-time schedule integration
+- Built with Next.js 15, TypeScript, Web Speech API, and n8n workflow automation
 
-**🤖 [Atoms - Capstone](https://github.com/songjeongjun320/Atoms)** | Next.js | Supabase | n8n | May 2025 - present
-- Developing MCP (Model Context Protocol) server and AI Agent workflows using n8n to automate business processes.
-- Building frontend and backend development, optimizing performance and user experience.
+**🧠 [Increasing Multilingual LLM Ability](https://github.com/songjeongjun320/Increase_MLLM_Ability)** | Research | PyTorch | HPC | Dec 2024 - present
+- Research on mitigating English-centric bias in LLMs
+- Improving multilingual performance through novel training approaches
 
-**🏥 [CarePilot](https://github.com/songjeongjun320/CarePilot)** | Full-stack | Next.js | n8n | AI Agent| OpenAI | Supabase | Git | May 2025
-- Developed a Medical AI Agent to analyze and summarize patient history, assisting doctors in diagnosis.
-- Built the UI with Next.js and created AI workflows using n8n to analyze doctor-patient conversations and medical records.
+**🤖 [Atoms - Capstone](https://github.com/songjeongjun320/Atoms)** | Next.js | Supabase | n8n | MCP | May 2025 - present
+- Developing MCP (Model Context Protocol) server and AI Agent workflows
+- Automating business processes with n8n workflow automation
 
-**🧠 [Llama Socrates](https://github.com/songjeongjun320/Llama-Socrates)** | Llama | MoE | CoT | FineTune | Jan 2025 – May 2025
-- Created a model pipeline (Judge, Math, Instruction) and MoE (Mixture of Experts) for handling math and instructional queries.
-- Boosted performance with LoRA fine-tuning, improving math accuracy by 32% and reducing perplexity by 25%.
+**🧠 [Llama Socrates](https://github.com/songjeongjun320/Llama-Socrates)** | Llama | MoE | CoT | LoRA | Jan 2025 – May 2025
+- Created model pipeline (Judge, Math, Instruction) with Mixture of Experts architecture
+- Improved math accuracy by 32% and reduced perplexity by 25% using LoRA fine-tuning
 
-**📄 [Business Contract Analyzer](https://github.com/songjeongjun320/Business-Contract-Analyzer)** | Full-stack | Next.js | Python | Flask | JavaScript | Llama | Git | Sep 2024 – Jan 2025
-- Developed logic to detect toxic clauses in B2B contracts, providing initiative-taking suggestions for resolution.
-- Connected the Flask server and front-end via REST API and utilized the LLama API to deliver a solution.
+**📄 [Business Contract Analyzer](https://github.com/songjeongjun320/business-contract-analyzer)** | Full-stack | Next.js | Flask | Llama | Sep 2024 – Jan 2025
+- Developed logic to detect toxic clauses in B2B contracts with AI-powered suggestions
+- Connected Flask backend and Next.js frontend via REST API
 
-**😊 [Why don't you be nice(r)?](https://github.com/songjeongjun320/ethical_hackathon)** | Next.js | Chrome Extension | JavaScript | Llama | Sep 2024
-- 2nd Place winner, Presented to Ethical Hackathon.
-- Project promoting positive online interactions by encouraging reflection before posting harmful comments.
+**😊 [Why don't you be nice(r)?](https://github.com/songjeongjun320/ethical_hackathon)** | Next.js | Chrome Extension | Llama | Sep 2024
+- **2nd Place Winner** - Ethical Hackathon
+- Promoting positive online interactions using AI sentiment analysis
 
-**🏭 [Machine Learning Yard Management System](https://github.com/songjeongjun320/ASU_FURI_Project)** | Full-stack | Next.js | Supabase | YOLO | Git | May 2024 – Jan 2025
-- Constructed a full-stack web application to display OCR-extracted data.
-- Integrated Tessearct and AWS-Textract for an OCR solution, reducing transaction costs.
+**🏭 [Machine Learning Yard Management System](https://github.com/songjeongjun320/ASU_FURI_Project)** | Next.js | Supabase | YOLOv8 | Tesseract | AWS Textract | May 2024 – Jan 2025
+- Full-stack web application for OCR-extracted data visualization
+- Cost-effective OCR solution combining Tesseract and AWS Textract
 
-**📦 [OCR CNTR Number Recognition](https://github.com/songjeongjun320/OCR_CNTR_Number/blob/main/Test.ipynb)** | OpenCV | Tesseract | YOLOv5
-- Used OpenCV and Tesseract for automating container number recognition.
+**🎓 [Who am I? - Portfolio](https://github.com/songjeongjun320/jun-portfolio)** | Next.js | TypeScript | Tailwind CSS | Jan 2025
+- Personal portfolio website with interactive dashboard design
+- Built with Next.js 14, TypeScript, and Tailwind CSS
 
-**📊 [KPI Automatic Extraction](https://github.com/songjeongjun320/KPI_Automatic/tree/main)** | Selenium | Python | Automation
-- Automating KPI data extraction with 80% time reduction.
+### Additional Projects
+
+**📚 [ASU Bookstore Web App](https://github.com/songjeongjun320/Bookstore_project)** | Full-stack | Nov 2024
+- Intuitive textbook platform empowering students
+
+**🧠 [MindVillage - Hacks for Humanity 2024](https://github.com/songjeongjun320/mindvillage)** | Full-stack | Oct 2024
+- Platform for mental health support
+
+**📦 [OCR Container Number Recognition](https://github.com/songjeongjun320/OCR_CNTR_Number/blob/main/Test.ipynb)** | OpenCV | Tesseract | YOLOv5
+- Automated container number recognition system
+
+**📊 [KPI Automatic Extraction](https://github.com/songjeongjun320/KPI_Automatic/tree/main)** | Selenium | Python
+- Automated KPI data extraction with 80% time reduction
 
 ### Technical Skills
-- **🛠️ Programming Languages:** Python, Java, JavaScript, C++, TypeScript, HTML, CSS
-- **💻 Front-End:** HTML, CSS, React.JS, Tailwind CSS, Next.JS, TypeScript, React Query
-- **🔧 Back-End:** Flask, REST API, Node.JS
-- **🗄️ Tools, Databases, and OS:** Supabase, PostgreSQL, Git, GitHub, AWS, YOLO, Jira, Linux/Unix, Docker, n8n
-- **🤖 AI/ML:** Machine Learning, Computer Vision, LLMs, Fine-tuning, LoRA
+- **🛠️ Programming Languages:** Python, JavaScript, TypeScript, Java, C++, HTML, CSS
+- **💻 Front-End:** React, Next.js, Tailwind CSS, HTML5, CSS3
+- **🔧 Back-End:** Node.js, Flask, REST API
+- **🤖 AI/ML:** n8n Workflows, AI Agents, LLMs, Computer Vision, Fine-tuning, LoRA, YOLO
+- **🗄️ Databases & Cloud:** Supabase, PostgreSQL, AWS (S3, Textract), Google Cloud Platform
+- **🛠️ Tools & Platforms:** Git, GitHub, Docker, Linux/Unix, Jira, Web Speech API
+
+### Motto
+> "You can not connect the dots looking forward, you can only connect them looking backward." - Steve Jobs
 
 ### GitHub Stats
 ![JeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=songjeongjun320&show_icons=true&theme=radical)
